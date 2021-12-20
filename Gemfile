@@ -32,7 +32,6 @@ group :development, :test do
   gem 'capybara'
   gem 'launchy'
   gem 'shoulda-matchers'
-  gem 'active_designer'
 end
 
 group :development do
